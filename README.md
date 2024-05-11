@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing<br>👯 I’m looking to collaborate on anyThing<br>🌱 I’m currently learning git and gitHub<br>💬 Ask me about nothing<br>⚡ Fun fact : i like using switch instead of the if statements
+🌱 I’m currently working on nothing<br>🌱 I’m looking to collaborate on anyThing<br>🌱 I’m currently learning git and gitHub<br>🌱 Ask me about nothing<br>🌱 Fun fact : i like using switch instead of the if statements
 
 
 ## 🌐 Socials:
